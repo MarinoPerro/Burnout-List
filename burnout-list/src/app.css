@@ -1,0 +1,15 @@
+.header {
+    text-align: center
+}
+
+button:enabled {
+    border-radius: 5px;
+    padding: 1%;
+    background-color: lightgray;
+}
+
+button:disabled {
+    border-radius: 5px;
+    padding: 1%;
+    background-color: darkgray;
+}
